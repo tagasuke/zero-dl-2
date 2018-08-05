@@ -1,2 +1,2 @@
 # zero-dl-2
-ゼロから作るDeepLearningの作業用リポジトリ
+ゼロから作るDeepLearning2用の作業リポジトリ
